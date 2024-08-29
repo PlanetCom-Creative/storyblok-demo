@@ -33,7 +33,7 @@ export default defineConfig({
         banner: "components/bloks/Banner",
       },
       apiOptions: {
-        region: "eu", // optional,  or 'eu' (default)
+        region: "ca", // optional,  or 'eu' (default)
       },
     }),
     tailwind({
